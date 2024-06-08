@@ -1,0 +1,10 @@
+[2023-12-10 14:21:03] DB Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[2023-12-13 11:55:39] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-3' for key 'slug'
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-21 17:42:50] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-22 13:40:26] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-22 13:43:25] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-23 12:42:16] Mail Error: SMTP Error: Could not authenticate.SMTP server error: QUIT command failed
+[2023-12-24 14:42:44] DB Error: SQLSTATE[HY000] [1049] Unknown database 'zenblog'
